@@ -2,4 +2,4 @@
 
 Conficuracion personal de la data de Seocraft
 
-Cualquier sugestion hacia este apartado, se puede crear un Issue para recomendaciones.
+Se puede crear un Issue para recomendaciones. Estas no siempre seran aceptadas
