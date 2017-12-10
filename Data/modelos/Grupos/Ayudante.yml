@@ -1,0 +1,16 @@
+name: Helper
+priority: 1000
+html_color: "#027E2F"
+badge_color: "#027E2F"
+badge_link: "/staff"
+minecraft_permissions:
+  global:
+  - lobby.fly
+  - whitelist.bypass
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full
+  - raindrops.multiplier.250
+  - ocn.punishments.kick
+  - ocn.punishments.warn
+  
